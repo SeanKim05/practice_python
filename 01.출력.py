@@ -17,4 +17,3 @@ num2 = 10**2
 num = int(input("값을 입력"))
 ans = num * (num + 1) // 2
 print(ans)
-#
